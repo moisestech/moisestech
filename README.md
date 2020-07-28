@@ -1,6 +1,6 @@
-### Hola there 👋
+![LinkedIn Banner](https://media-exp1.licdn.com/dms/image/C5616AQGRnxSqXXjQXA/profile-displaybackgroundimage-shrink_350_1400/0?e=1601510400&v=beta&t=bZ56AZQKTORtztWxlIEiPwHlo_e2MaGFGZgpJedU79o)
 
-Here are some ideas to get you started:
+### Hola there 👋
 
 - 🔭  I’m currently working on creative machine learning for the web
 - 🌱  I’m currently learning reactjs and stylegan2
