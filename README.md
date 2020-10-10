@@ -4,17 +4,6 @@
 
 I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> [Moises Sanabria](https://moises.tech/), a Full-Stack Developer from 🇻🇪 Venezuela living in 🏝️ Miami. Currently, I'm a 👨🏽‍💻 <em>Digital Producer</em> at [@ICAMiami](https://icamiami.org/) learning Data Science at [Standford Online](https://www.coursera.org/learn/machine-learning).
 
-🔭 I’m currently working on creative machine learning for the web  
-🌱 I’m currently learning reactjs and stylegan2  
-👯 I’m looking to collaborate on natural language & t-sne visualizations  
-🤔 I’m looking for help with graphql and apollo  
-💬 Ask me about poetic computation and meme art  
-📫 How to reach me: m@moises.tech  
-😄 Pronouns: he/him  
-⚡ Fun fact: I like vjing, rhythm and poetry
-
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=moisestech&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,73FA79&theme=graywhite" /><!-- wi*quL3fcV --><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisestech&hide_title=true&hide_border=true&layout=compact&bg_color=73FDFF,D783FF&theme=graywhite" />
-
 ```javascript
 (Love) = ("what I do") => {
   Constantly = (`learn` && `adjust`) => {
@@ -23,6 +12,19 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
   }
 }
 ```
+
+<details open>
+<li>🔭 I’m currently working on creative machine learning for the web</li>
+<li>🌱 I’m currently learning reactjs and stylegan2</li>
+<li>👯 I’m looking to collaborate on natural language & t-sne visualizations</li> 
+<li>🤔 I’m looking for help with graphql and apollo</li>
+<li>💬 Ask me about poetic computation and meme art</li>
+<li>📫 How to reach me: m@moises.tech</li>
+<li>😄 Pronouns: he/him</li>
+<li>⚡ Fun fact: I like vjing, rhythm and poetry</li>
+</details>
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=moisestech&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,73FA79&theme=graywhite" /><!-- wi*quL3fcV --><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisestech&hide_title=true&hide_border=true&layout=compact&bg_color=73FDFF,D783FF&theme=graywhite" />
 
 📊 **This week I spent my time on**
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=moisestech&hide_title=true&hide_border=true&langs_count=5)
@@ -59,5 +61,3 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
 <code><img width="40x" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
 <code><img width="40x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
 </details>
-
-<details></details>
