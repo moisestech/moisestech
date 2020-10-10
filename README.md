@@ -2,6 +2,8 @@
 
 ## Hola world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<img src="https://raw.githubusercontent.com/moisestech/moisestech/master/assets/MoisesTech_Zepeto_MLwJS.png" align="right" width="350px"/>
+
 I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> [Moises Sanabria](https://moises.tech/), a Full-Stack Developer from 🇻🇪 Venezuela living in 🏝️ Miami.  
 Currently, I'm a 👨🏽‍💻 <em>Digital Producer</em> at [@ICAMiami](https://icamiami.org/) learning Data Science at [Standford Online](https://www.coursera.org/learn/machine-learning).
 
@@ -9,8 +11,6 @@ Currently, I'm a 👨🏽‍💻 <em>Digital Producer</em> at [@ICAMiami](https:
 [![Linkedin: Moises Sanabria](https://img.shields.io/badge/-moisesdsanabria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moisesdsanabria/)](https://www.linkedin.com/in/moisesdsanabria/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/moisestech?label=follow&style=social)](https://github.com/moisestech)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=moisestech)
-
-<img src="https://raw.githubusercontent.com/moisestech/moisestech/master/assets/MoisesTech_Zepeto_MLwJS.png" align="right" width="300px"/>
 
 ```javascript
 (Love) = ("what I do") => {
