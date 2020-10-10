@@ -2,7 +2,8 @@
 
 ## Hola world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> [Moises Sanabria](https://moises.tech/), a Full-Stack Developer from 🇻🇪 Venezuela living in 🏝️ Miami. Currently, I'm a 👨🏽‍💻 <em>Digital Producer</em> at [@ICAMiami](https://icamiami.org/) learning Data Science at [Standford Online](https://www.coursera.org/learn/machine-learning).
+I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> [Moises Sanabria](https://moises.tech/), a Full-Stack Developer from 🇻🇪 Venezuela living in 🏝️ Miami.  
+Currently, I'm a 👨🏽‍💻 <em>Digital Producer</em> at [@ICAMiami](https://icamiami.org/) learning Data Science at [Standford Online](https://www.coursera.org/learn/machine-learning).
 
 ```javascript
 (Love) = ("what I do") => {
