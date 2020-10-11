@@ -41,7 +41,7 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=moisestech&hide_title=true&hide_border=true&langs_count=5)
 
-<!-- <img src="https://raw.githubusercontent.com/moisestech/moisestech/master/contributions.gif" alt="Contributions" width="722px" height="112px" /> -->
+<img src="https://raw.githubusercontent.com/moisestech/moisestech/master/contributions.gif" alt="Contributions" width="722px" height="112px" />
 
 <hr/>
 
