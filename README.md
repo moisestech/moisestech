@@ -49,22 +49,21 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
 
 ## 🔧 Technologies I'm currently working with:
 
-<div width="350px">
 <table>
   <tr>
-    <td valign="top" width="50%"></td>
-    <td valign="top" width="50%"></td>
+    <td valign="top" width="150"></td>
+    <td valign="top" width="150"></td>
   </tr>
   <tr>
-    <td valign="center" halign="center" width="50%">
+    <td valign="center" halign="center" width="150">
       <strong>💻  Front-End</strong>
     </td>
-    <td valign="top" halign="center" width="50%">
+    <td valign="top" halign="center" width="150">
       <strong>⚙️ Back-end</strong>
     </td>
   </tr>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="150">
       <div align="center">
         <img
           width="40x"
@@ -164,15 +163,15 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
     </td>
   </tr>
   <tr>
-    <td valign="top" halign="center" width="50%">
+    <td valign="top" halign="center" width="150">
       <strong>🧠  Machine Learning</strong>
     </td>
-    <td valign="top" halign="center" width="50%">
+    <td valign="top" halign="center" width="150">
       <strong>☁️ DevOps</strong>
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="150">
       <div align="center">
         <img
           align="center"
@@ -201,7 +200,7 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
         />
       </div>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="150">
       <div align="center">
         <img
           align="center"
@@ -238,4 +237,3 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
     </td>
   </tr>
 </table>
-</div>
