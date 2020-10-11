@@ -127,7 +127,7 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
         />
       </div>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="150">
       <div align="center">
         <img
           align="center"
