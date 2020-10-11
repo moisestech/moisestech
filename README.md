@@ -51,19 +51,15 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
 
 <table width="350px">
   <tr>
-    <td valign="top" width="50%">
-      <strong>💻 </strong>
-    </td>
-    <td valign="top" width="50%">
-      <strong>⚙️</strong>
-    </td>
+    <td valign="top" width="50%"></td>
+    <td valign="top" width="50%"></td>
   </tr>
   <tr>
-    <td valign="center" halign="center" width="33%">
-      <strong>Front-End</strong>
+    <td valign="center" halign="center" width="50%">
+      <strong>💻  Front-End</strong>
     </td>
-    <td valign="top" width="33%">
-      <strong>Back-end</strong>
+    <td valign="top" halign="center" width="50%">
+      <strong>⚙️ Back-end</strong>
     </td>
   </tr>
   <tr>
@@ -167,27 +163,15 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%"></td>
-    <td valign="top" width="50%"></td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>🧠 </strong>
+    <td valign="top" halign="center" width="50%">
+      <strong>🧠  Machine Learning</strong>
     </td>
-    <td valign="top" width="50%">
-      <strong>☁️</strong>
+    <td valign="top" halign="center" width="50%">
+      <strong>☁️ DevOps</strong>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <strong>Machine Learning</strong>
-    </td>
-    <td valign="top" width="50%">
-      <strong>DevOps</strong>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="33%">
       <div align="center">
         <img
           align="center"
