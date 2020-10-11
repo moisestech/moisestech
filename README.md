@@ -35,9 +35,7 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
 [![GitHub MoisesTech](https://img.shields.io/github/followers/moisestech?label=follow&style=social)](https://github.com/moisestech)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=moisestech)
 
-<img align="left" height="137px" src="https://github-readme-stats.vercel.app/api?username=moisestech&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><!-- wi*quL3fcV --><img align="right" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisestech&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
-
-<img src="https://github.com/moisestech/moisestech/blob/master/assets/avatar/MoisesTech_Zepeto_Dancing.gif?raw=true" alt="MoisesTech Dancing" width="350px" />
+<img align="left" height="135px" src="https://github-readme-stats.vercel.app/api?username=moisestech&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><!-- wi*quL3fcV --><img align="right" height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisestech&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
 ## 📊 **This week I spent my time on**
 
@@ -49,16 +47,25 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
 
 ## 🔧 Technologies I'm currently working with:
 
-<table>
-  <td valign="top" width="33%">
-    <strong>💻 Front-End</strong>
-  </td>
-  <td valign="top" width="33%">
-    <strong>⚙️ Back-end</strong>
-  </td>
-  <td valign="top" width="33%">
-    <strong>🧠 Machine Learning</strong>
-  </td>
+<img src="https://github.com/moisestech/moisestech/blob/master/assets/avatar/MoisesTech_Zepeto_Dancing.gif?raw=true" alt="MoisesTech Dancing" width="300px" align="right" />
+
+<table width="350px">
+  <tr>
+    <td valign="top" width="50%">
+      <strong>💻 </strong>
+    </td>
+    <td valign="top" width="50%">
+      <strong>⚙️</strong>
+    </td>
+  </tr>
+  <tr>
+    <td valign="center" halign="center" width="33%">
+      <strong>Front-End</strong>
+    </td>
+    <td valign="top" width="33%">
+      <strong>Back-end</strong>
+    </td>
+  </tr>
   <tr>
     <td valign="top" width="33%">
       <div align="center">
@@ -138,26 +145,44 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
         />
         <img
           align="center"
-          width="40%"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"
-        />
-        <img
-          align="center"
-          width="40%"
+          height="60"
           src="https://raw.githubusercontent.com/moisestech/moisestech/master/assets/logos/nestjs.png"
         />
         <img
           align="center"
           width="40%"
+          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"
+        />
+        <img
+          align="center"
+          height="40"
           src="https://raw.githubusercontent.com/moisestech/moisestech/master/assets/logos/nodejs.png"
         />
         <img
           align="center"
-          width="50%"
+          height="40"
           src="https://github.com/moisestech/moisestech/blob/master/assets/logos/mongodb.png?raw=true"
         />
       </div>
     </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>🧠 </strong>
+    </td>
+    <td valign="top" width="50%">
+      <strong>☁️</strong>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Machine Learning</strong>
+    </td>
+    <td valign="top" width="50%">
+      <strong>DevOps</strong>
+    </td>
+  </tr>
+  <tr>
     <td valign="top" width="33%">
       <div align="center">
         <img
@@ -177,33 +202,17 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
         />
         <img
           align="center"
-          width="40"
+          height="50"
           src="https://raw.githubusercontent.com/moisestech/moisestech/master/assets/logos/numpy.png"
         />
         <img
           align="center"
-          width="40"
-          src="https://raw.githubusercontent.com/moisestech/moisestech/master/assets/logos/numpy.png"
-        />
-        <img
-          align="center"
-          width="40"
+          height="35"
           src="https://raw.githubusercontent.com/moisestech/moisestech/master/assets/logos/tensorflow2.png"
         />
       </div>
     </td>
-  </tr>
-  <tr>
-    <td valign="top" width="33%">
-      <strong>☁️ DevOps & Cloud Servers</strong>
-    </td>
-    <td valign="top" width="33%">
-      <strong>🛠️ Command Line & Tools</strong>
-    </td>
-    <td valign="top" width="33%"></td>
-  </tr>
-  <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       <div align="center">
         <img
           align="center"
@@ -220,17 +229,9 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
           width="40"
           src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"
         />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <div align="center">
         <img
           width="40"
           src="https://camo.githubusercontent.com/d82942004dd6bfef22a5ba8e6fb936211a048320/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6769742d73636d2d69636f6e2e737667"
-        />
-        <img
-          width="40"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
         />
         <img
           width="40"
