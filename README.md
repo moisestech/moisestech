@@ -8,7 +8,7 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
 
 ```javascript
 (Love) = ("what I do") => {
-  const antly = (`learn` && `adjust`) => {
+  Constantly = (`learn` && `adjust`) => {
     Bring.positive().solutions()
       Strive.(for([Poetic + Computation]))
   }
