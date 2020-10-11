@@ -39,6 +39,8 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
 
 ## 📊 **This week I spent my time on**
 
+<img src="https://github.com/moisestech/moisestech/blob/master/assets/avatar/MoisesTech_Zepeto_Dancing.gif?raw=true" alt="MoisesTech Dancing" width="300px" align="left" />
+
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=moisestech&hide_title=true&hide_border=true&langs_count=5)
 
 <!-- <img src="https://raw.githubusercontent.com/moisestech/moisestech/master/contributions.gif" alt="Contributions" width="722px" height="112px" /> -->
@@ -46,8 +48,6 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
 <hr/>
 
 ## 🔧 Technologies I'm currently working with:
-
-<img src="https://github.com/moisestech/moisestech/blob/master/assets/avatar/MoisesTech_Zepeto_Dancing.gif?raw=true" alt="MoisesTech Dancing" width="300px" align="left" />
 
 <table width="350px">
   <tr>
