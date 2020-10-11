@@ -49,7 +49,8 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
 
 ## 🔧 Technologies I'm currently working with:
 
-<table width="350px">
+<div width="350px">
+<table>
   <tr>
     <td valign="top" width="50%"></td>
     <td valign="top" width="50%"></td>
@@ -237,3 +238,4 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
     </td>
   </tr>
 </table>
+</div>
