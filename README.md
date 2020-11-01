@@ -23,7 +23,9 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
 🤔 I’m looking for help with <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /> and <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />  
 💬 Ask me about **_poetic computation_** and **_meme art_**  
 📫 How to reach me: m@moises.tech  
-😄 Pronouns: he/him  
+😄 Pronouns: <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
+<img src="https://pronouns.vercel.app/he/him?gradient=grapefruit%20sunset" width="256" height="14" alt="My pronouns are he/him">
+</a>
 ⚡ Fun fact: I like vjing, rhythm and poetry
 
 <hr/>
@@ -41,7 +43,7 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=moisestech&hide_title=true&hide_border=true&langs_count=5)
 
-<img src="https://raw.githubusercontent.com/moisestech/nilfalse/master/contributions.gif" alt="Contributions" width="722px" height="112px" />
+<img src="https://raw.githubusercontent.com/moisestech/moisestech/master/assets/banner/contributions.gif" alt="Contributions" width="722px" height="112px" />
 
 <hr/>
 
