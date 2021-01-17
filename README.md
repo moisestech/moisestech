@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/moisestech/moisestech/master/assets/avatar/MoisesTech_Zepeto_MLwJS.png" align="right" width="330px"/>
 
-I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> [Moises Sanabria](https://moises.tech/), a Full-Stack Developer from 🇻🇪 Venezuela living in 🏝️ Miami. Currently, I'm a 👨🏽‍💻 <em>Solutions Engineer</em> at [@Playwire](https://https://playwire.com//) learning Data Science and Cloud Computing at [Standford Online](https://www.coursera.org/learn/machine-learning) and [AWS Academyc](https://www.aws.training/).
+I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> [Moises Sanabria](https://moises.tech/), a Full-Stack Developer from 🇻🇪 Venezuela living in 🏝️ Miami. Currently, I'm a 👨🏽‍💻 <em>Solutions Engineer</em> at [@Playwire](https://https://playwire.com//) learning Data Science and Cloud Computing at [Standford Online](https://www.coursera.org/learn/machine-learning) and [AWS Academy](https://www.aws.training/).
 
 ```javascript
 (Love) = ("what I do") => {
@@ -24,7 +24,7 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
 💬 Ask me about **_poetic computation_** and **_meme art_**  
 📫 How to reach me: m@moises.tech  
 😄 Pronouns: <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
-<img src="https://pronouns.vercel.app/he/him?gradient=grapefruit%20sunset" width="256" height="14" alt="My pronouns are he/him">
+<img src="https://pronouns.vercel.app/he/him?gradient=grapefruit%20sunset" width="256" height="14" alt="My pronouns are he/him"/>
 </a>
 ⚡ Fun fact: I like vjing, rhythm and poetry
 
