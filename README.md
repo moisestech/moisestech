@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/moisestech/moisestech/master/assets/avatar/MoisesTech_Zepeto_MLwJS.png" align="right" width="330px"/>
 
-I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> [Moises Sanabria](https://moises.tech/), a Full-Stack Developer from 🇻🇪 Venezuela living in 🏝️ Miami. Currently, I'm a 👨🏽‍💻 <em>Solutions Engineer</em> at [@Playwire](https://https://playwire.com//) learning Data Science and Cloud Computing at [Standford Online](https://www.coursera.org/learn/machine-learning) and [AWS Academy](https://www.aws.training/).
+I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> [Moises Sanabria](https://moises.tech/), a Full-Stack Developer from 🇻🇪 Venezuela living in 🏝️ Miami. Currently, I'm the 👨🏽‍💻 <em>Chief Prompt Engineer</em> at [@LoreMachine](https://https://loremachine.world/) learning Data Science and Cloud Computing at [Standford Online](https://www.coursera.org/learn/machine-learning) and [AWS Academy](https://www.aws.training/).
 
 ```javascript
 (Love) = ("what I do") => {
