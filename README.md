@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/moisestech/moisestech/master/assets/avatar/MoisesTech_Zepeto_MLwJS.png" align="right" width="330px"/>
 
-I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> [Moises Sanabria](https://moises.tech/), a Full-Stack Developer from 🇻🇪 Venezuela living in 🏝️ Miami. Currently, I'm the 👨🏽‍💻 <em>Chief Prompt Engineer</em> at [@LoreMachine](https://https://loremachine.world/) learning Data Science and Cloud Computing at [Standford Online](https://www.coursera.org/learn/machine-learning) and [AWS Academy](https://www.aws.training/).
+I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> [Moises Sanabria](https://moises.tech/), a Full-Stack Developer from 🇻🇪 Venezuela living in 🏝️ Miami. Currently, I'm the 👨🏽‍💻 <em>Chief Prompt Engineer</em> at [@LoreMachine]([https://https://loremachine.world/](https://www.loremachine.world/)) learning Data Science and Cloud Computing at [Standford Online](https://www.coursera.org/learn/machine-learning) and [AWS Academy](https://www.aws.training/).
 
 ```javascript
 (Love) = ("what I do") => {
@@ -18,13 +18,13 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
 ## About me:
 
 🔭 I’m currently working on <strong>creative machine learning</strong> for the web  
-🌱 I’m currently learning <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> and [stylegan2](https://github.com/NVlabs/stylegan2)  
+🌱 I’m currently learning <img alt="NextJS 14" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> and [Replicate]([https://github.com/NVlabs/stylegan2](https://replicate.com/))  
 👯 I’m looking to collaborate on <a href="https://github.com/openai/gpt-3">natural language</a> & [t-sne visualizations](https://www.youtube.com/watch?v=wvsE8jm1GzE)  
 🤔 I’m looking for help with <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /> and <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />  
 💬 Ask me about **_poetic computation_** and **_meme art_**  
 📫 How to reach me: m@moises.tech  
 😄 Pronouns: <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
-<img src="https://pronouns.vercel.app/he/him?gradient=grapefruit%20sunset" width="256" height="14" alt="My pronouns are he/him"/>
+<img src="https://pronouns.vercel.app/he/him?gradient=grapefruit%20sunset" width="256" height="40" alt="My pronouns are he/him"/>
 </a>
 ⚡ Fun fact: I like vjing, rhythm and poetry
 
