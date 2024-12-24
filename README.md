@@ -41,7 +41,9 @@ I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-s
 
 ## 📊 **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=moisestech&hide_title=true&hide_border=true&langs_count=5)
+![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=moisestech&hide_title=true&hide_border=true&langs_count=5)
+
+[![wakatime](https://wakatime.com/badge/user/c0d72f18-144a-4342-9c6f-324327ce0407/project/53e51501-7c0d-4969-a2ab-080688c51325.svg)](https://wakatime.com/badge/user/c0d72f18-144a-4342-9c6f-324327ce0407/project/53e51501-7c0d-4969-a2ab-080688c51325)
 
 <img src="https://raw.githubusercontent.com/moisestech/moisestech/master/assets/banner/contributions.gif" alt="Contributions" width="722px" height="112px" />
 
