@@ -1,243 +1,529 @@
-![LinkedIn Banner](https://github.com/moisestech/moisestech/blob/master/assets/banner/MoisesTech_LinkedIn_Banner.jpeg?raw=true)
+Hola world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## Hola world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img src="https://raw.githubusercontent.com/moisestech/moisestech/master/assets/avatar/MoisesTech_Zepeto_MLwJS.png" align="right" width="315px"/>
 
-<img src="https://raw.githubusercontent.com/moisestech/moisestech/master/assets/avatar/MoisesTech_Zepeto_MLwJS.png" align="right" width="330px"/>
+I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Moises Sanabria — an AI Engineer, Creative Technologist, and interdisciplinary artist from 🇻🇪 Venezuela based in 🏝️ Miami.
 
-I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> [Moises Sanabria](https://moises.tech/), a Full-Stack Developer from 🇻🇪 Venezuela living in 🏝️ Miami. Currently, I'm the 👨🏽‍💻 <em>Chief Prompt Engineer</em> at [@LoreMachine]([https://https://loremachine.world/](https://www.loremachine.world/)) learning Data Science and Cloud Computing at [Standford Online](https://www.coursera.org/learn/machine-learning) and [AWS Academy](https://www.aws.training/).
+I build intelligent systems that connect AI agents, software, data, creative tools, and physical environments.
 
-```javascript
-(Love) = ("what I do") => {
-  Constantly = (`learn` && `adjust`) => {
-    Bring.positive().solutions()
-      Strive.(for([Poetic + Computation]))
+My work spans production AI systems, generative media, institutional infrastructure, interactive installations, and forward-deployed engineering. I’m especially interested in the full path from model → interface → infrastructure → deployment → human adoption.
+
+Previously, I helped build generative storytelling systems at Lore Machine. Today, I’m developing agentic workflows, creative infrastructure, and technical systems for organizations, artists, and new forms of cultural production.
+
+
+
+const build = async (problem) => {
+  const context = await observe(problem);
+  const constraints = map(context);
+  let prototype = await make(constraints);
+
+  while (!prototype.isUseful()) {
+    prototype = await iterate(prototype);
   }
-}
-```
 
-## About me:
+  return deploy(prototype, {
+    humans: true,
+    documentation: true,
+    poeticComputation: true,
+  });
+};
 
-🔭 I’m currently working on <strong>creative machine learning</strong> for the web  
-🌱 I’m currently learning <img alt="NextJS 14" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> and [Replicate]([https://github.com/NVlabs/stylegan2](https://replicate.com/))  
-👯 I’m looking to collaborate on <a href="https://github.com/openai/gpt-3">natural language</a> & [t-sne visualizations](https://www.youtube.com/watch?v=wvsE8jm1GzE)  
-🤔 I’m looking for help with <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /> and <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />  
-💬 Ask me about **_poetic computation_** and **_meme art_**  
-📫 How to reach me: m@moises.tech  
-😄 Pronouns: <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
-<img src="https://pronouns.vercel.app/he/him?gradient=grapefruit%20sunset" width="256" height="40" alt="My pronouns are he/him"/>
-</a>
-⚡ Fun fact: I like vjing, rhythm and poetry
+<br clear="right"/>
 
-<hr/>
+What I build
 
-## 📈 My Stats:
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>🤖 AI Systems</strong><br/><br/>
+      Agents<br/>
+      MCP + tool use<br/>
+      RAG + retrieval<br/>
+      Evals + observability<br/>
+      Multimodal workflows<br/>
+      Human-in-the-loop systems
+    </td>
+    <td valign="top" width="33%">
+      <strong>🧩 Forward-Deployed Systems</strong><br/><br/>
+      Technical discovery<br/>
+      Organizational workflows<br/>
+      Rapid prototyping<br/>
+      Deployment + enablement<br/>
+      Client-facing implementation<br/>
+      Physical + institutional systems
+    </td>
+    <td valign="top" width="33%">
+      <strong>🎛️ Creative Technology</strong><br/><br/>
+      Generative media<br/>
+      Interactive interfaces<br/>
+      Three.js / WebGL / WebGPU<br/>
+      TouchDesigner<br/>
+      Physical computing<br/>
+      Experimental software
+    </td>
+  </tr>
+</table>
 
-[![Twitter: Moises Sanabria](https://img.shields.io/twitter/follow/moisesdsanabria?style=social)](https://twitter.com/moisesdsanabria)
-[![Linkedin: Moises Sanabria](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moisesdsanabria/)](https://www.linkedin.com/in/moisesdsanabria/)
-[![GitHub MoisesTech](https://img.shields.io/github/followers/moisestech?label=follow&style=social)](https://github.com/moisestech)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=moisestech)
+I work across the full path from model → agent → API → product → data → infrastructure → physical environment → people.
 
-<img height="135px" src="https://github-readme-stats.vercel.app/api?username=moisestech&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><!-- wi*quL3fcV --><img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisestech&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+Selected systems
 
-## 📊 **This week I spent my time on**
+● PRODUCTION / FIELD WORK    ◐ ACTIVE    ○ RESEARCH / REFERENCE IMPLEMENTATION
 
-![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=moisestech&hide_title=true&hide_border=true&langs_count=5)
+◐ agentic-ops
 
-[![wakatime](https://wakatime.com/badge/user/c0d72f18-144a-4342-9c6f-324327ce0407/project/53e51501-7c0d-4969-a2ab-080688c51325.svg)](https://wakatime.com/badge/user/c0d72f18-144a-4342-9c6f-324327ce0407/project/53e51501-7c0d-4969-a2ab-080688c51325)
+An auditable multi-tool agent runtime for organizational workflows.
 
-<img src="https://raw.githubusercontent.com/moisestech/moisestech/master/assets/banner/contributions.gif" alt="Contributions" width="722px" height="112px" />
+A public reference implementation for multi-step AI systems that can plan, retrieve context, use tools, respect permissions, request human approval, execute actions, and evaluate their own operational behavior.
 
-<hr/>
+Python TypeScript FastAPI Next.js MCP RAG Postgres pgvector Docker Evals HITL
 
-## 🔧 Technologies I'm currently working with:
+Instruction
+    ↓
+Planner
+    ↓
+Agent Runtime
+    ↓
+MCP / Tools
+    ↓
+Retrieval + Memory
+    ↓
+Human Approval
+    ↓
+Execution
+    ↓
+Evaluation
 
-<img src="https://github.com/moisestech/moisestech/blob/master/assets/avatar/MoisesTech_Zepeto_Dancing.gif?raw=true" alt="MoisesTech Dancing" width="300px" align="left" />
+Current focus: tool orchestration, structured outputs, retrieval, approval boundaries, auditability, and evaluation.
+
+● Lore Machine
+
+Generative storytelling infrastructure for turning narrative inputs into multimodal creative outputs.
+
+My work there helped shape how I think about AI product systems: prompt architecture, multimodal workflows, production interfaces, iterative model behavior, and the orchestration required to make generative systems useful to actual creators.
+
+Generative AI Multimodal Systems Prompt Architecture Product Engineering Creative Tools
+
+Visit Lore Machine →
+
+◐ SmartSigns
+
+Distributed digital-signage infrastructure for cultural and artist environments.
+
+A field-deployed system connecting web software to Raspberry Pi devices, kiosk-mode browsers, physical displays, remote configuration, and the operational realities of maintaining technology outside a developer laptop.
+
+Raspberry Pi Linux Chromium Kiosk Systems Web Infrastructure Device Operations
+
+Admin / Content
+      ↓
+ Web Infrastructure
+      ↓
+ Device Registry
+      ↓
+ Raspberry Pi
+      ↓
+ Chromium Kiosk
+      ↓
+ Physical Display
+
+◐ AI24 Control Room
+
+Programming and operational infrastructure for an AI-native media network.
+
+A system for organizing artists, media assets, playlists, programming, schedules, distribution, and eventually analytics across a continuously evolving creative network.
+
+Next.js TypeScript Postgres Automation Media Pipelines Scheduling Streaming
+
+Content Sources
+      ↓
+  Ingestion
+      ↓
+Editorial Layer
+      ↓
+ Programming
+      ↓
+ Scheduling
+      ↓
+ Distribution
+      ↓
+ Analytics
+
+◐ Creative AI
+
+AI-assisted creative production across art, interfaces, client work, and generative media.
+
+I use AI as more than a generation endpoint: as a production system, interface material, creative collaborator, automation layer, and cultural object.
+
+Current work includes projects such as ArtLikes, artist/client web systems, generative image and video workflows, and experimental interfaces.
+
+Creative Direction Generative Media AI Workflows Interactive Design Web Production
+
+Currently building — agentic-ops
+
+This is the current technical flagship: one small, real system designed to make modern AI engineering practices inspectable rather than simply listed on a résumé.
+
+✓ Multi-step orchestration
+✓ Structured tool interfaces
+◐ MCP server + client
+◐ Retrieval / organizational knowledge
+◐ Human approval gates
+◐ Evaluation suite
+○ Public replayable demo
+○ Production deployment
+
+What it is designed to prove
+
+Capability
+
+Evidence
+
+Agent orchestration
+
+Multi-step stateful workflows
+
+MCP + tool use
+
+Explicit tool schemas and execution
+
+RAG
+
+Retrieval over organizational knowledge
+
+Human-in-the-loop
+
+Approval boundaries for consequential actions
+
+Evals
+
+Behavioral regression and tool-selection tests
+
+Python
+
+Agent runtime + API
+
+TypeScript
+
+User-facing control interface
+
+FastAPI
+
+Service layer
+
+Postgres / pgvector
+
+Persistence + retrieval
+
+Docker
+
+Reproducible runtime
+
+CI/CD
+
+Automated lint, tests, and build
+
+Observability
+
+Run timeline, errors, cost, and tool traces
+
+The goal is not another chatbot. The goal is an auditable system that does useful work across multiple tools while keeping humans in control.
+
+Production + field experience
+
+I’m particularly interested in engineering where the technical system is only one part of the problem.
+
+DISCOVER
+   ↓
+MAP
+   ↓
+PROTOTYPE
+   ↓
+DEPLOY
+   ↓
+ENABLE
+   ↓
+MEASURE
+   ↓
+ITERATE
+
+Lore Machine
+
+AI product engineering and generative storytelling systems.
+
+Oolite Arts
+
+Creative technology infrastructure, digital fabrication, artist enablement, workshops, and technical systems operating inside a cultural institution.
+
+Bakehouse Art Complex / SmartSigns
+
+Physical deployment, Raspberry Pi infrastructure, kiosk systems, artist-facing technology, and operational implementation.
+
+Independent + client work
+
+Creative AI production, interactive websites, generative workflows, technical consulting, implementation, and translating technical capabilities for non-technical collaborators.
+
+This is the part of engineering I enjoy most: entering an ambiguous environment, understanding its people and constraints, building something useful, and making sure the system can actually be operated after the prototype works.
+
+Technical capabilities
+
+<img src="https://github.com/moisestech/moisestech/blob/master/assets/avatar/MoisesTech_Zepeto_Dancing.gif?raw=true" alt="MoisesTech Dancing" width="285px" align="left" />
 
 <table>
   <tr>
     <td valign="top" width="250"></td>
     <td valign="top" width="250"></td>
   </tr>
+
   <tr>
-    <td valign="center" halign="center" width="250">
-      <strong>💻  Front-End</strong>
+    <td valign="center" width="250">
+      <strong>🤖 AI Systems</strong>
     </td>
-    <td valign="top" halign="center" width="250">
-      <strong>⚙️ Back-end</strong>
+    <td valign="center" width="250">
+      <strong>💻 Software Engineering</strong>
     </td>
   </tr>
+
   <tr>
     <td valign="top" width="250">
       <div align="center">
-        <img
-          width="40x"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
-        />
-        <img
-          width="40x"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"
-        />
-        <img
-          width="40x"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"
-        />
-        <img
-          width="40x"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
-        />
-        <img
-          width="40x"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-        />
-        <img
-          width="40x"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"
-        />
-        <img
-          width="40x"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-        />
-        <img
-          width="40x"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"
-        />
-        <img
-          width="40x"
-          src="https://raw.githubusercontent.com/moisestech/moisestech/master/assets/logos/gatsby.png"
-        />
-        <img
-          width="40x"
-          src="https://raw.githubusercontent.com/moisestech/moisestech/master/assets/logos/nextjs.png"
-        />
-        <img
-          width="40"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png"
-        />
-        <img
-          width="40x"
-          src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png"
-        />
-        <img
-          width="40"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"
-        />
-        <img
-          width="40"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"
-        />
-        <img
-          width="40"
-          src="https://github.com/moisestech/moisestech/blob/master/assets/logos/d3.png?raw=true"
-        />
+        <img width="40" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+        <img width="40" title="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
+        <img width="40" title="FastAPI" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fastapi/fastapi.png"/>
+        <img width="40" title="Jupyter" src="https://github.com/moisestech/moisestech/blob/master/assets/logos/jupyter_notebooks.png?raw=true"/>
+      </div>
+      <br/>
+      <div align="center">
+        <strong>
+          Agents · MCP · Tool Use<br/>
+          RAG · Vector Search<br/>
+          Structured Outputs · Evals<br/>
+          Multimodal AI · HITL
+        </strong>
       </div>
     </td>
-    <td valign="top" width="250">
-      <div align="center">
-        <img
-          align="center"
-          width="40"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"
-        />
-        <img
-          align="center"
-          width="40"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"
-        />
-        <img
-          align="center"
-          height="60"
-          src="https://raw.githubusercontent.com/moisestech/moisestech/master/assets/logos/nestjs.png"
-        />
-        <img
-          align="center"
-          width="40%"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"
-        />
-        <img
-          align="center"
-          height="40"
-          src="https://raw.githubusercontent.com/moisestech/moisestech/master/assets/logos/nodejs.png"
-        />
-        <img
-          align="center"
-          height="40"
-          src="https://github.com/moisestech/moisestech/blob/master/assets/logos/mongodb.png?raw=true"
-        />
-      </div>
+
+<td valign="top" width="250">
+  <div align="center">
+    <img width="40" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
+    <img width="40" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+    <img width="40" title="Next.js" src="https://raw.githubusercontent.com/moisestech/moisestech/master/assets/logos/nextjs.png"/>
+    <img height="40" title="Node.js" src="https://raw.githubusercontent.com/moisestech/moisestech/master/assets/logos/nodejs.png"/>
+    <img width="40" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+    <img width="40" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+  </div>
+  <br/>
+  <div align="center">
+    <strong>
+      TypeScript · React · Next.js<br/>
+      Python · FastAPI · Node<br/>
+      APIs · Realtime Systems<br/>
+      Authentication · Interfaces
+    </strong>
+  </div>
+</td>
+
+  </tr>
+
+  <tr>
+    <td valign="center" width="250">
+      <strong>🏗️ Data + Infrastructure</strong>
+    </td>
+    <td valign="center" width="250">
+      <strong>🎛️ Creative Computing</strong>
     </td>
   </tr>
-  <tr>
-    <td valign="top" halign="center" width="250">
-      <strong>🧠  Machine Learning</strong>
-    </td>
-    <td valign="top" halign="center" width="250">
-      <strong>☁️ DevOps</strong>
-    </td>
-  </tr>
+
   <tr>
     <td valign="top" width="250">
       <div align="center">
-        <img
-          align="center"
-          width="40"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
-        />
-        <img
-          align="center"
-          width="60"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"
-        />
-        <img
-          align="center"
-          width="40"
-          src="https://github.com/moisestech/moisestech/blob/master/assets/logos/jupyter_notebooks.png?raw=true"
-        />
-        <img
-          align="center"
-          height="50"
-          src="https://raw.githubusercontent.com/moisestech/moisestech/master/assets/logos/numpy.png"
-        />
-        <img
-          align="center"
-          height="35"
-          src="https://raw.githubusercontent.com/moisestech/moisestech/master/assets/logos/tensorflow2.png"
-        />
+        <img width="40" title="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
+        <img height="50" title="AWS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"/>
+        <img width="40" title="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
+        <img width="40" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
+        <img width="40" title="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
       </div>
-    </td>
-    <td valign="top" width="250">
+      <br/>
       <div align="center">
-        <img
-          align="center"
-          height="50"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"
-        />
-        <img
-          align="center"
-          height="40"
-          src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-        />
-        <img
-          align="center"
-          width="40"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"
-        />
-        <img
-          width="40"
-          src="https://camo.githubusercontent.com/d82942004dd6bfef22a5ba8e6fb936211a048320/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6769742d73636d2d69636f6e2e737667"
-        />
-        <img
-          width="40"
-          src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"
-        />
-        <img
-          width="40"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
-        />
-        <img
-          width="50"
-          src="https://raw.githubusercontent.com/moisestech/moisestech/master/assets/logos/vscode.png"
-        />
+        <strong>
+          SQL · Postgres · Data Modeling<br/>
+          ETL · Analytics · Warehousing<br/>
+          Docker · Linux · CI/CD<br/>
+          Cloud · GitHub Actions
+        </strong>
       </div>
     </td>
+
+<td valign="top" width="250">
+  <div align="center">
+    <img width="40" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+    <img width="40" title="Three.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/threejs/threejs.png"/>
+    <img width="40" title="Raspberry Pi" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"/>
+  </div>
+  <br/>
+  <div align="center">
+    <strong>
+      Three.js · WebGL · WebGPU<br/>
+      TouchDesigner · ComfyUI<br/>
+      Raspberry Pi · Physical Computing<br/>
+      Generative Media · Interactive Systems
+    </strong>
+  </div>
+</td>
+
   </tr>
 </table>
+
+<br clear="left"/>
+
+Evidence over self-rating
+
+I’m trying to make every major technical claim on this profile traceable to something inspectable:
+
+SKILL
+  ↓
+REPOSITORY
+  ↓
+WORKING SYSTEM
+  ↓
+ARCHITECTURE
+  ↓
+CASE STUDY
+  ↓
+DEMO / SCREENSHOT
+
+Rather than collecting isolated demo repos, I’m building a smaller set of systems where each project proves multiple adjacent capabilities.
+
+Current evidence map
+
+Capability
+
+Primary proof
+
+Agent orchestration
+
+agentic-ops
+
+MCP / tool use
+
+agentic-ops
+
+RAG / retrieval
+
+agentic-ops
+
+Evals / observability
+
+agentic-ops
+
+Multimodal AI
+
+Lore Machine + public reference work
+
+Full-stack product engineering
+
+AI24 + moises.tech
+
+Linux / field deployment
+
+SmartSigns
+
+Raspberry Pi
+
+SmartSigns
+
+Data architecture
+
+Data platform work + prior production experience
+
+Creative AI
+
+Lore Machine + ArtLikes + client work
+
+Creative computing
+
+Interactive / installation work
+
+Forward-deployed engineering
+
+Oolite + Bakehouse + client implementations
+
+How I think about engineering
+
+I don't see software as separate from the environment where it operates.
+
+A production system can include:
+
+models
++
+agents
++
+interfaces
++
+APIs
++
+databases
++
+permissions
++
+people
++
+hardware
++
+physical space
++
+documentation
++
+training
+
+The interesting engineering problem is often not making any one component work.
+
+It's making the whole system legible, reliable, maintainable, useful, and adaptable to the people operating it.
+
+That is why I’m especially interested in AI engineering, forward-deployed engineering, creative technology, and technical infrastructure.
+
+Poetic computation
+
+My engineering practice grew alongside an artistic practice centered on poetic computation — using software not only to automate tasks, but to expose new relationships between technology, culture, attention, humor, labor, and everyday life.
+
+Sometimes that results in software.
+
+Sometimes it becomes an installation, an image, a physical object, a workflow, a website, a tool for another artist, or infrastructure inside an organization.
+
+The medium changes. The underlying question is often the same:
+
+What happens when computation becomes part of the material itself?
+
+What I can help build
+
+Agentic AI products with real tool use and operational guardrails
+
+Forward-deployed AI implementations inside organizations
+
+AI-enabled workflows for technical and non-technical teams
+
+Multimodal creative systems for images, video, narrative, and media
+
+Full-stack AI products from interface to API to persistence
+
+Data + AI infrastructure connecting models to useful organizational context
+
+Interactive and physical computing systems that leave the browser
+
+Creative technology prototypes where software, art, media, and hardware overlap
+
+I'm particularly interested in roles around AI Engineering, Forward-Deployed Engineering, Creative Technology, AI Solutions Architecture, and Technical / Creative Innovation.
+
+📈 GitHub activity
+
+
+
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=moisestech&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
+
+<img src="https://raw.githubusercontent.com/moisestech/moisestech/master/assets/banner/contributions.gif" alt="Contributions" width="722px" height="112px" />
+
+🌐 Find more of my work
+
+🏠 moises.tech💼 LinkedIn💻 GitHub📫 m@moises.tech
+
+Art × AI × Infrastructure × Poetic Computation
+
+I build technology, artworks, interfaces, and systems for a world where software increasingly participates in how culture, organizations, and everyday life operate.
