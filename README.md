@@ -8,7 +8,7 @@ I build intelligent systems that connect AI agents, software, data, creative too
 
 My work spans production AI systems, generative media, institutional infrastructure, interactive installations, and forward-deployed engineering. I’m especially interested in the full path from model → interface → infrastructure → deployment → human adoption.
 
-Previously, I helped build generative storytelling systems at Lore Machine. Today, I’m developing agentic workflows, creative infrastructure, and technical systems for organizations, artists, and new forms of cultural production.
+Previously, I helped build generative storytelling systems at Lore Machine. Today I’m building client-facing creative AI workflows and inspectable agent systems for organizations, artists, and new forms of cultural production.
 
 
 
@@ -70,31 +70,33 @@ Selected systems
 
 ● PRODUCTION / FIELD WORK    ◐ ACTIVE    ○ RESEARCH / REFERENCE IMPLEMENTATION
 
-◐ agentic-ops
+● krea-field-studio
 
-An auditable multi-tool agent runtime for organizational workflows.
+A replay-first client workflow for creative generation: brief + owned assets → three lanes → human approval → compare (no auto-rank) → proposal + operator field note.
 
-A public reference implementation for multi-step AI systems that can plan, retrieve context, use tools, respect permissions, request human approval, execute actions, and evaluate their own operational behavior.
+Public source, CI, and a replay demo. The public path runs from fixtures so review does not depend on paid inference. Unofficial — not affiliated with or endorsed by Krea.
 
-Python TypeScript FastAPI Next.js MCP RAG Postgres pgvector Docker Evals HITL
+[Source](https://github.com/moisestech/krea-field-studio) · [Replay](https://krea-field-studio.vercel.app/replay) · [CI](https://github.com/moisestech/krea-field-studio/actions)
 
-Instruction
-    ↓
-Planner
-    ↓
-Agent Runtime
-    ↓
-MCP / Tools
-    ↓
-Retrieval + Memory
-    ↓
-Human Approval
-    ↓
-Execution
-    ↓
-Evaluation
+TypeScript SvelteKit Krea API HITL Replay CI
 
-Current focus: tool orchestration, structured outputs, retrieval, approval boundaries, auditability, and evaluation.
+Brief + assets
+    ↓
+Three lanes
+    ↓
+Human approval
+    ↓
+Compare
+    ↓
+Proposal + field note
+
+● agentic-evidence-pipeline
+
+Human-controlled, durable, inspectable AI workflows: jobs, approval boundaries, and an audit trail that can be verified in public CI.
+
+[Source](https://github.com/moisestech/agentic-evidence-pipeline) · [Latest verify](https://github.com/moisestech/agentic-evidence-pipeline/actions/runs/31634589692)
+
+Python Durable jobs Approval Audit trail GitHub Actions
 
 ● Lore Machine
 
@@ -158,18 +160,17 @@ Current work includes projects such as ArtLikes, artist/client web systems, gene
 
 Creative Direction Generative Media AI Workflows Interactive Design Web Production
 
-Currently building — agentic-ops
+Currently building — Krea Field Studio
 
-This is the current technical flagship: one small, real system designed to make modern AI engineering practices inspectable rather than simply listed on a résumé.
+This is the current public flagship: a small, real client workflow that makes creative generation inspectable rather than simply listed on a résumé.
 
-✓ Multi-step orchestration
-✓ Structured tool interfaces
-◐ MCP server + client
-◐ Retrieval / organizational knowledge
-◐ Human approval gates
-◐ Evaluation suite
-○ Public replayable demo
-○ Production deployment
+✓ Replay-first demo (fixture mode)
+✓ Public source + CI (lint, typecheck, unit tests, build, Playwright)
+✓ Human approval before generation spend
+✓ Compare without auto-rank
+✓ Proposal + operator field note
+◐ Live Krea API path (implemented, not yet a recorded funded run)
+○ Custom domain (`field-studio.moises.tech`) pending DNS
 
 What it is designed to prove
 
@@ -177,55 +178,35 @@ Capability
 
 Evidence
 
-Agent orchestration
+Creative workflow design
 
-Multi-step stateful workflows
-
-MCP + tool use
-
-Explicit tool schemas and execution
-
-RAG
-
-Retrieval over organizational knowledge
+Brief → lanes → approval → compare → proposal
 
 Human-in-the-loop
 
-Approval boundaries for consequential actions
+No generation until a person approves the brief
 
-Evals
+Replay / reviewability
 
-Behavioral regression and tool-selection tests
+Public fixture demo, not a paid inference dependency
 
-Python
+Provider boundary
 
-Agent runtime + API
+Fixture vs Krea REST, with recorded contracts
 
-TypeScript
+Full-stack product
 
-User-facing control interface
+SvelteKit UI, job ledger, webhook + polling fallback
 
-FastAPI
+CI
 
-Service layer
+Install, check, seven unit tests, build, Playwright replay
 
-Postgres / pgvector
+Agentic systems (leverage)
 
-Persistence + retrieval
+[Agentic Evidence Pipeline](https://github.com/moisestech/agentic-evidence-pipeline) — durable jobs, approval, audit trail
 
-Docker
-
-Reproducible runtime
-
-CI/CD
-
-Automated lint, tests, and build
-
-Observability
-
-Run timeline, errors, cost, and tool traces
-
-The goal is not another chatbot. The goal is an auditable system that does useful work across multiple tools while keeping humans in control.
+The goal is not another generation demo. The goal is a client-facing loop people can understand, adopt, and improve with.
 
 Production + field experience
 
@@ -398,29 +379,29 @@ Capability
 
 Primary proof
 
+Creative generation workflow
+
+[krea-field-studio](https://github.com/moisestech/krea-field-studio)
+
+Human-in-the-loop / replay
+
+[krea-field-studio](https://krea-field-studio.vercel.app/replay)
+
 Agent orchestration
 
-agentic-ops
+[agentic-evidence-pipeline](https://github.com/moisestech/agentic-evidence-pipeline)
 
-MCP / tool use
+Durable jobs / approval / audit
 
-agentic-ops
-
-RAG / retrieval
-
-agentic-ops
-
-Evals / observability
-
-agentic-ops
+[agentic-evidence-pipeline](https://github.com/moisestech/agentic-evidence-pipeline)
 
 Multimodal AI
 
-Lore Machine + public reference work
+Lore Machine + Field Studio + public reference work
 
 Full-stack product engineering
 
-AI24 + moises.tech
+Field Studio + moises.tech
 
 Linux / field deployment
 
