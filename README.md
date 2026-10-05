@@ -10,6 +10,7 @@ My work spans production AI systems, generative media, institutional infrastruct
 
 Previously, I helped build generative storytelling systems at Lore Machine. Today I’m building client-facing creative AI workflows and inspectable agent systems for organizations, artists, and new forms of cultural production.
 
+**Current technical focus:** Python · FastAPI · LangGraph · MCP + tool use · RAG · Evals · HITL · PostgreSQL · Docker · TypeScript
 
 
 const build = async (problem) => {
@@ -70,6 +71,26 @@ Selected systems
 
 ● PRODUCTION / FIELD WORK    ◐ ACTIVE    ○ RESEARCH / REFERENCE IMPLEMENTATION
 
+● agentic-ops
+
+A governed Python/FastAPI agent reference: retrieve approved sources, call permissioned tools, cite the evidence, pause before writes, and preserve the audit trail.
+
+[Source](https://github.com/moisestech/agentic-ops)
+
+Python FastAPI LangGraph MCP RAG HITL Evals Docker
+
+Retrieve
+    ↓
+Tools
+    ↓
+Cited draft
+    ↓
+Policy / grounding
+    ↓
+Human approval
+    ↓
+Recorded action
+
 ● krea-field-studio
 
 A replay-first client workflow for creative generation: brief + owned assets → three lanes → human approval → compare (no auto-rank) → proposal + operator field note.
@@ -96,7 +117,7 @@ Human-controlled, durable, inspectable AI workflows: jobs, approval boundaries, 
 
 [Source](https://github.com/moisestech/agentic-evidence-pipeline) · [Latest verify](https://github.com/moisestech/agentic-evidence-pipeline/actions/runs/31634589692)
 
-Python Durable jobs Approval Audit trail GitHub Actions
+TypeScript LangGraph PostgreSQL Durable jobs Approval Audit trail GitHub Actions
 
 ● Lore Machine
 
@@ -203,6 +224,8 @@ CI
 Install, check, seven unit tests, build, Playwright replay
 
 Agentic systems (leverage)
+
+[Agentic Ops](https://github.com/moisestech/agentic-ops) — Python/FastAPI agent runtime, RAG, permissioned tools, HITL, evals
 
 [Agentic Evidence Pipeline](https://github.com/moisestech/agentic-evidence-pipeline) — durable jobs, approval, audit trail
 
@@ -389,7 +412,7 @@ Human-in-the-loop / replay
 
 Agent orchestration
 
-[agentic-evidence-pipeline](https://github.com/moisestech/agentic-evidence-pipeline)
+[agentic-ops](https://github.com/moisestech/agentic-ops)
 
 Durable jobs / approval / audit
 
