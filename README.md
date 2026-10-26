@@ -71,7 +71,7 @@ Selected systems
 
 ● PRODUCTION / FIELD WORK    ◐ ACTIVE    ○ RESEARCH / REFERENCE IMPLEMENTATION
 
-● agentic-ops
+○ agentic-ops
 
 A governed Python/FastAPI agent reference: retrieve approved sources, call permissioned tools, cite the evidence, pause before writes, and preserve the audit trail.
 
